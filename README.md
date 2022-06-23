@@ -11,3 +11,7 @@ Este projeto foi criado em `maio de 2020`, numa época em que eu estava a dar os
 O funcionamento desse jogo é muito simples de entender: Inicialmente Aparece uma aba pedindo algumas informações,como o seu nome, _total de letrar a apanhar_ e o _tempo de queda de cada letra_.
 
 Depois de clicar em `Começar o Jogo`, o jogo irá começar, letras do alfebeto serão geradas aleatoriamente e irão cair até fora do seu ecrã, a sua missão é clicar na tecla correspondente enquanto ela está na tela.
+
+##
+
+<a href="https://francisco-fetapi.github.io/Mestre-no-teclado/">Clique aqui se desejas ver o projeto rodando</a>
