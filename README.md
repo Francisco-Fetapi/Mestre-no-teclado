@@ -7,9 +7,10 @@
 <a href="https://github.com/Francisco-Fetapi/Mestre-no-teclado"><img alt="GitHub license" src="https://img.shields.io/github/license/Francisco-Fetapi/Mestre-no-teclado?style=plastic"></a>
 </p>
 
-Este projeto foi criado em `maio de 2020`, numa época em que eu estava a dar os meus primeiros passos no **mundo do desenvolvimento**, foi inspirado num dos mini jogos do **Typing Master**, um aplicativo com diversas funcionalidades que podem te tornar um astro na arte de digitar pelo teclado.
+Este projeto foi criado em `maio de 2020`, numa época em que eu estava a dar os meus primeiros passos no **mundo do desenvolvimento**, foi inspirado num dos mini jogos do [Typing Master](https://typingmaster.br.uptodown.com/windows), um aplicativo com diversas funcionalidades que podem te tornar um astro na arte de digitar pelo teclado.
 
-![asset5](https://user-images.githubusercontent.com/74926014/175072844-7270864a-a643-4a5e-998e-b238df062717.PNG)
+![mestre-no-teclado](https://user-images.githubusercontent.com/74926014/180440924-a368ce3c-2384-4c69-b1ed-3ac97e71ca97.gif)
+
 
 <!-- IMAGEM PRINCIPAL -->
 
